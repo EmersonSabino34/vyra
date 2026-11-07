@@ -32,6 +32,7 @@ export default function Ambience() {
       <span className="ambience-blob ambience-blob-2" />
       <span className="ambience-blob ambience-blob-3" />
       <span className="ambience-stars" />
+
     </div>
 
   );
