@@ -27,6 +27,7 @@ export default function Ambience() {
     <div className="ambience" aria-hidden="true">
       <span className="ambience-scene" />
       <span className="ambience-veil" />
+      
       <span className="ambience-blob ambience-blob-1" />
       <span className="ambience-blob ambience-blob-2" />
       <span className="ambience-blob ambience-blob-3" />
