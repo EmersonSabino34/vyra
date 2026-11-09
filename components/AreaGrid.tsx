@@ -10,7 +10,6 @@ import {
   IconTarget,
   IconVibration,
 } from "@/components/icons";
-
 /**
  * As nove áreas da Home — a grade 3×3 das telas de referência.
  
