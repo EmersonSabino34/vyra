@@ -15,6 +15,7 @@ import {
 
 /**
  * As nove áreas da Home — a grade 3×3 das telas de referência.
+ 
  *
  * A lista mora aqui, e não em lib/data.ts, porque cada área carrega um
  * componente de ícone: um módulo de dados puro teria de devolver o nome do
