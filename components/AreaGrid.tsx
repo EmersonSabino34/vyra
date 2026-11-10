@@ -33,6 +33,7 @@ export type Area = {
   lede: string;
 };
 
+
 export const areas: Area[] = [
   {
     slug: "objetivos",
